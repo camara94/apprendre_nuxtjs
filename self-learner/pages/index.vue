@@ -22,12 +22,14 @@
         >
           GitHub
         </a>
+        <NuxtLink to="/hh/course">Cours</NuxtLink>
       </div>
     </div>
   </div>
 </template>
 
 <script>
+//import course from './head/course.vue';
 export default {}
 </script>
 
